@@ -6,7 +6,7 @@
 - Đối chiếu, kiểm tra số liệu với tài liệu chuẩn
 - Yêu cầu AI trình bày các bước lập luận
 - Đưa tài liệu gốc vào prompt để Ai bám sát
-## 
+## Phần 3: Cấu trúc prompt mẫu tối ưu bằng khung CREATE.
 - C - Context (Bối cảnh & Vai trò): Định vị vai trò cho AI.
 - R - Request (Yêu cầu cốt lõi): Nêu rõ nhiệm vụ cần thực.
 - E - Explanation (Giải thích & Ràng buộc)): Đặt ra danh giới, quy tắc cấm.
